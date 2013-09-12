@@ -1,3 +1,3 @@
 UseR
 ====
-http://rawgithub.com/patilv/UseR/master/index.html - R-charts not showing up yet.
+https://dl.dropboxusercontent.com/u/56796392/WhyR/index.html
